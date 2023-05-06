@@ -1,0 +1,15 @@
+D:\个人\Study\DelegateApp1\bin\Debug\net6.0\DelegateApp1.exe
+D:\个人\Study\DelegateApp1\bin\Debug\net6.0\DelegateApp1.deps.json
+D:\个人\Study\DelegateApp1\bin\Debug\net6.0\DelegateApp1.runtimeconfig.json
+D:\个人\Study\DelegateApp1\bin\Debug\net6.0\DelegateApp1.dll
+D:\个人\Study\DelegateApp1\bin\Debug\net6.0\DelegateApp1.pdb
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.csproj.AssemblyReference.cache
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.AssemblyInfoInputs.cache
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.AssemblyInfo.cs
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.csproj.CoreCompileInputs.cache
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.dll
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\refint\DelegateApp1.dll
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.pdb
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\DelegateApp1.genruntimeconfig.cache
+D:\个人\Study\DelegateApp1\obj\Debug\net6.0\ref\DelegateApp1.dll
